@@ -1,5 +1,7 @@
 # hugs.python.org
 
+🤗
+
 While we figure out what this should do, here are other ways
 you can show your appreciations to other Pythonistas:
 
